@@ -59,7 +59,7 @@ Generate imaginative sci-fi images using AI. This feature produces futuristic vi
 
 ## Conclusion
 
-Congratulations! You've completed the MERN Stack ChatGPT Clone tutorial, mastering the art of building dynamic web applications. This project has equipped you with skills to construct responsive user interfaces and implement various functionalities.
+Congratulations! You've completed the MERN Stack ChatGPT Clone , mastering the art of building dynamic web applications. This project has equipped you with skills to construct responsive user interfaces and implement various functionalities.
 
 ## Next Steps
 
