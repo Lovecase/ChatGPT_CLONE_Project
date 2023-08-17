@@ -80,4 +80,16 @@ For further learning, consult these resources:
 
 Feel free to refer to these resources for clarification or to explore more advanced concepts.
 
+# Here are the some of the working snapshots of the webapp
+![WhatsApp Image 2023-08-18 at 00 30 27](https://github.com/Lovecase/ChatGPT_CLONE_Project/assets/76085767/8bef6a61-fe42-4251-aa6e-d50c98a40f28)
+
+
+![WhatsApp Image 2023-08-18 at 00 30 28 (1)](https://github.com/Lovecase/ChatGPT_CLONE_Project/assets/76085767/43cdde95-7d51-4e51-80d3-a84ef93985a8)
+
+![WhatsApp Image 2023-08-18 at 00 30 28](https://github.com/Lovecase/ChatGPT_CLONE_Project/assets/76085767/124cb442-c3d0-4717-9f66-536b9d1bc953)
+
+![WhatsApp Image 2023-08-18 at 00 30 29](https://github.com/Lovecase/ChatGPT_CLONE_Project/assets/76085767/7a9e2925-b848-4ffd-83e1-8bc7a6395b30)
+
+
+
  Happy coding!
